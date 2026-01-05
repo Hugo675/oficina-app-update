@@ -1,6 +1,6 @@
 {
   "versionCode": 8,
   "versionName": "8.1",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "apkUrl": "https://github.com/Hugo675/oficina-app-update/releases/download/v1.1.0/app-release.apk"
 }
